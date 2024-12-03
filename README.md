@@ -1,2 +1,2 @@
 # Data-Source-API-Analyst-Test
-GITHUB API researching
+Homework assignment for Data Source API Analyst role.
