@@ -1,3 +1,4 @@
+# Troubleshooting Guide
 ## 400
 - **Check the environment variable** - **'X-GitHub-Api-Version'** in .env. Be sure that the version exists.   [Check supported API versions](https://docs.github.com/en/rest/about-the-rest-api/?apiVersion=2022-11-28#supported-api-versions)
 ## 401
