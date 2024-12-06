@@ -21,5 +21,5 @@
 	- `retry-after` response header is present, you should not retry your request until after that many seconds has elapsed. 
 	[Check best practice](https://docs.github.com/en/rest/using-the-rest-api/best-practices-for-using-the-rest-api?apiVersion=2022-11-28#handle-rate-limit-errors-appropriately)[Status of primary rate limit](https://docs.github.com/en/rest/using-the-rest-api/rate-limits-for-the-rest-api?apiVersion=2022-11-28#calculating-points-for-the-secondary-rate-limit:~:text=not%20shared%20publicly.-,Checking%20the%20status%20of%20your%20rate%20limit,-You%20can%20use) 
 ## Validation failed
-- If you receive the 'Validation failed' massage you should check the length of your searching query. It should be less then 256. [Check the limitation](### [Limitations on query length](https://docs.github.com/en/rest/search/search?apiVersion=2022-11-28#limitations-on-query-length))  
+- If you receive the 'Validation failed' massage you should check the length of your searching query. It should be less then 256. [Check the limitation Limitations on query length](https://docs.github.com/en/rest/search/search?apiVersion=2022-11-28#limitations-on-query-length)
 
